@@ -24,7 +24,7 @@ Toda a navegação é organizada por rotas (Web + Mobile), consumindo a API cent
 
 A aplicação Web está hospedada na Vercel e pode ser acessada aqui:
 
-👉 **[https://SEU-PROJETO.vercel.app/produtos](https://SEU-PROJETO.vercel.app/produtos)](https://meu-estudo-caso-api.vercel.app/)**
+👉 **(https://meu-estudo-caso-api.vercel.app/)**
 
 ---
 
