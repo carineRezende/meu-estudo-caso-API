@@ -69,35 +69,34 @@ A aplicação Web está hospedada na Vercel e pode ser acessada aqui:
 | `/produtos/:id` | **DELETE** | Remove um produto específico |
 
 ---
-
 ### 🗂️ Estrutura de Pastas
 
 meu-estudo-caso/
 ├── api/
-│   ├── controllers/
-│   ├── routes/
-│   ├── server.js
-│   ├── produtos.json
-│   └── package.json
+│ ├── controllers/
+│ ├── routes/
+│ ├── server.js
+│ ├── produtos.json
+│ └── package.json
 │
 ├── web/
-│   ├── src/
-│   │   ├── pages/
-│   │   ├── components/
-│   │   ├── services/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── vite.config.js
-│   └── package.json
+│ ├── src/
+│ │ ├── pages/
+│ │ ├── components/
+│ │ ├── services/
+│ │ ├── App.jsx
+│ │ └── main.jsx
+│ ├── vite.config.js
+│ └── package.json
 │
 └── mobile/
-    ├── app/
-    │   ├── produtos/
-    │   │   ├── index.tsx
-    │   │   ├── novo.tsx
-    │   │   └── [id].tsx
-    ├── package.json
-    └── app.config.js
+├── app/
+│ ├── produtos/
+│ │ ├── index.tsx
+│ │ ├── novo.tsx
+│ │ └── [id].tsx
+├── package.json
+└── app.config.js
 
 ---
 
